@@ -9,8 +9,4 @@ hello
 hello sonu whats up
 this the the latest changes
 
-<<<<<<< Updated upstream
 this is the m2() method completed
-=======
-This is m1() method incomplete method
->>>>>>> Stashed changes
